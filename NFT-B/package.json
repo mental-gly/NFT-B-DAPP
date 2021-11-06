@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "ipfs-api": "^26.1.2"
+  }
+}
